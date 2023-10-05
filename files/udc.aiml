@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+   <category>
+       <pattern>WHAT IS THE WEATHER LIKE TODAY</pattern>
+       <template>The weather today is sunny with a high of 75°F.</template>
+   </category>
+   <category>
+       <pattern>WHAT WILL THE WEATHER BE LIKE TOMORROW</pattern>
+       <template>Tomorrow's weather forecast predicts rain with a high of 65°F.</template>
+   </category>
+</aiml>
+
